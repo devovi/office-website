@@ -1,0 +1,30 @@
+.h2-wrapper{
+	background-color: green;
+
+}
+.h3-wrapper{
+	color: orange;
+}
+.main-container{
+	width:90%;
+	font-size: 0;
+}
+.text-container{
+   display: inline-block;
+   vertical-align: middle;
+   font-size: initial;
+   width:60%;
+}
+.img-container{
+	 display: inline-block;
+   vertical-align: middle;
+   font-size: initial;
+   width:30%;
+}
+body{
+   box-shadow: #888888;
+   /*border:1px solid;*/
+   max-width:90%;
+   margin:0 auto;
+
+}
