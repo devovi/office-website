@@ -1244,3 +1244,12 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 	-webkit-transition-delay: 0.2s;
 	transition-delay: 0.2s;
 }
+.navbar-brand {
+	padding: 0;
+}
+.embedded-img{
+	height: 342px;
+}
+.products-img{
+	height:274px;
+}
